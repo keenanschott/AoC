@@ -1,6 +1,7 @@
 class AoC {
     static void Main(string[] args) {
         List<string> lines = [.. File.ReadAllLines("../aoc.in")];
-        DayOne.Solution(lines);
+        // DayOne.PartOne(lines);
+        // DayOne.PartTwo(lines);
     }
 }
